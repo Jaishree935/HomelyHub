@@ -1,3 +1,3 @@
 # StayInn
 
-Airbnb clone
+Online booking Accomodation
